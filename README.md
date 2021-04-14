@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adortolan
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Nest.js, Apache Kafka, GO Lang, React.js, GitHub Actions, Docker, Kubernetes, Elastic Stack. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... https://www.linkedin.com/in/adilson-ortolan-99b99870/
+- 📫 How to reach me https://www.linkedin.com/in/adilson-ortolan-99b99870/
 
 
 <!---
