@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adortolan
-- 🔭 I’m currently working on projeto de gestão hospitalar em Delphi5 e Delphi7 com SQL Server.
+- 🔭 I’m currently working on projeto de automação da justiça em Delphi5 e Delphi Tokyo com SQL Server e Oracle.
 - 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning Nest.js, Apache Kafka, GO Lang, React.js, GitHub Actions, Docker, Kubernetes, Elastic Stack. 
+- 🌱 I’m currently learning Nest.js, Apache Kafka, GO Lang, React.js, GitHub Actions, Docker, Kubernetes, Elastic Stack, C#, AspNet Core. 
 - 📫 How to reach me https://www.linkedin.com/in/adilson-ortolan-99b99870/
 
 
